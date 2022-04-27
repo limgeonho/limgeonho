@@ -28,7 +28,7 @@ Frontend
 <br/><br/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-Vue.js
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>
 <br/><br/>
@@ -39,17 +39,17 @@ Database
 <br/><br/>
 CI/CD
 <br/><br/>
-docker
-jenkins
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Jenkins-2496ED?style=flat-square&logo=Jenkins&logoColor=white"/>
 <br/><br/>
 Extra
 <br/><br/>
-zira
-aws
-gitlab
+<img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=AWS&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gitlab-FCA121?style=flat-square&logo=Gitlab&logoColor=white"/>
 <br/><br/>
 <br/><br/>
-소속
+소속(Experiences)
 ---
 - 홍익대학교 영어교육과
 - Mega IT Academy
@@ -60,7 +60,7 @@ gitlab
   - 2학기 특화 프로젝트 경진대회 최우수상(프로젝트명 : 도와주개냥)
 
 <br/><br/>
-프로젝트(Portfolio)
+프로젝트(Portfolios)
 ---
 - ToeicLab (문제 은행식 영어 문제 서비스)
   - README : https://github.com/limgeonho/ToeicLab

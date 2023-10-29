@@ -1,11 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=auto&height=250&section=header&text=Developer%20임건호%20&fontSize=70)
 
 <br/><br/>
 👋제 Github에 오신 것을 환영합니다!👋
 ---
-- 저는 매일매일 새로운 것을 배우려고 노력하는 개발자입니다.
-- 언제나 고객의 입장에서 생각하고 고민하는 개발자입니다.
-- Business Model을 고려하고 Product를 생각하는 개발자입니다.
 
 <br/><br/>
 기술 스택
